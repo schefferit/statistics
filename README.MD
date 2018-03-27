@@ -1,5 +1,3 @@
-[![Coverage Status](https://coveralls.io/repos/github/schefferit/statistics/badge.svg?branch=master)](https://coveralls.io/github/schefferit/statistics?branch=master)
-
 # Statistics
 
 Restful API for ***transaction statistics***. 
